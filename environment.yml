@@ -1,0 +1,15 @@
+name: movie-recommender
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10.20
+  - [cite_start]numpy
+  - [cite_start]pandas
+  - [cite_start]scikit-learn
+  - [cite_start]matplotlib
+  - [cite_start]seaborn
+  - pip:
+    - [cite_start]sentence-transformers
+    - [cite_start]thefuzz
+    - [cite_start]plotly

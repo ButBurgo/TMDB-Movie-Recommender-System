@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
+desktop.ini
+.conda/
+env/
+venv/
+.venv/
+*.log
+.vscode/
+.idea/
+Documentazione.docx
